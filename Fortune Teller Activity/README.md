@@ -1,1 +1,2 @@
 # Fortune Teller Activity
+In this project you pick a certain number from 1 to 10 and based on the number your fortune is determined. If the number is between 0 and 3 you have a low fortune, if you picked a number greater than 3 and less than or equal to 7 you have an average fortune. If you've picked greater than 7 and less than or equal to 10 then your fortune is good. For any other number the code should return that the fortune cannot be determined. 
