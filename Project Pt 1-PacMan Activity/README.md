@@ -1,1 +1,2 @@
 # Project Pt 1 - PacMan Activity
+In the PacMan project the actual characte PacMan is created and the code implements the mouth opening and closing and also the movement of th echaracter. Your task is to write a code that when the image of PacMan reaches the end of the screen it reverses direction. Meaning that the image flips and PacMan starts moving to the other side of the screen. Your other task is to create an interval in which the funcion that causes the movement is called. 
